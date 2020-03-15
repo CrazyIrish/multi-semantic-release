@@ -44,7 +44,7 @@
 		"get-stream": "^5.1.0",
 		"git-log-parser": "^1.2.0",
 		"require-in-the-middle": "^5.0.0",
-		"semantic-release": "^15.13.28",
+		"semantic-release": "^17.0.4",
 		"semver": "^6.3.0",
 		"signale": "^1.4.0",
 		"stream-buffers": "^3.0.2",
